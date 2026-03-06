@@ -4,4 +4,4 @@ We open-source all work in the form of code, data, papers, and technical blogs.
 
 --- 
 # Contact & Collaboration
-We are still setting up this organization but intend to collaborate with people of diverse backgrounds. Stay Tuned!
+We are still setting up this organization but intend to be highly collaborative. Stay Tuned!
