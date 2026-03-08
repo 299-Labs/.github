@@ -7,9 +7,9 @@ We open-source all work in the form of code, data, papers, and technical blogs.
 We welcome all collaborators with open arms. Please reach out to contact@299labs.xyz with your ideas/requests.
 
 ### You can follow us on our:
-[Website](299labs.xyz) \
-[LinkedIn](linkedin.com/company/299labs) \
-[Medium](299labs.medium.com) \
-[Substack](299labs.substack.com) \
-[Reddit](reddit.com/r/299labs) \
-[X](x.com/299labs)
+[Website](https://299labs.xyz) | 
+[LinkedIn](https://linkedin.com/company/299labs) | 
+[Medium](https://299labs.medium.com) | 
+[Substack](https://299labs.substack.com) | 
+[Reddit](https://reddit.com/r/299labs) | 
+[X](https://x.com/299labs)
