@@ -11,5 +11,5 @@ We welcome all collaborators with open arms. Please reach out to contact@299labs
 [LinkedIn](linkedin.com/company/299labs)
 [Medium](299labs.medium.com)
 [Substack](299labs.substack.com)
-[Reddit](reddit.com/user/299labs)
+[Reddit](reddit.com/r/299labs)
 [X](x.com/299labs)
