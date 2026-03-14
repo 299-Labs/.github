@@ -12,4 +12,4 @@ We welcome all collaborators with open arms. Please reach out to contact@299labs
 [Medium](https://299labs.medium.com) | 
 [Substack](https://299labs.substack.com) | 
 [Reddit](https://reddit.com/r/299labs) | 
-[X](https://x.com/299labs)
+[X](https://x.com/299_labs)
