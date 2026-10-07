@@ -8,8 +8,9 @@ We welcome all collaborators with open arms. Please reach out to contact@299labs
 
 ### Follow our work on our:
 [Website](https://299labs.xyz) | 
-[LinkedIn](https://linkedin.com/company/299labs) | 
 [Medium](https://299labs.medium.com) | 
-[Substack](https://299labs.substack.com) | 
+[Substack](https://299labs.substack.com) |
+[YouTube](https://www.youtube.com/@299Labs) |
 [Reddit](https://reddit.com/r/299labs) | 
 [X](https://x.com/299_labs)
+[LinkedIn](https://linkedin.com/company/299labs) | 
