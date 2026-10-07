@@ -12,5 +12,5 @@ We welcome all collaborators with open arms. Please reach out to contact@299labs
 [Substack](https://299labs.substack.com) |
 [YouTube](https://www.youtube.com/@299Labs) |
 [Reddit](https://reddit.com/r/299labs) | 
-[X](https://x.com/299_labs)
-[LinkedIn](https://linkedin.com/company/299labs) | 
+[X](https://x.com/299_labs) |
+[LinkedIn](https://linkedin.com/company/299labs) 
